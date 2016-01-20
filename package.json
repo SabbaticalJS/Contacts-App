@@ -1,3 +1,8 @@
 {
-	"name": "contacts_app"
+  "name": "contacts_app",
+  "description": "an app to perform CRUD operations on contacts",
+  "main": "server/server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
