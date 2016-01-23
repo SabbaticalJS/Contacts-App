@@ -12,6 +12,8 @@ var app = express();
 //declare a port for the server
 var PORT = process.env.PORT || 8000;
 
+console.log('what is --dirname',__dirname);
+
 // app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname,'../client')));
 
