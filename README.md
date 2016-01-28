@@ -1,4 +1,4 @@
 # Contacts-App
 An application for Creating, updating, and deleting contacts 
-server built using node.js with the express framework
-Data is persisted with the mongodb with mongoose as the ODM
+The server was built using node.js with the express framework
+The database management system is mongodb with mongoose as the ODM
