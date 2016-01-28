@@ -1,6 +1,7 @@
 //require the express module
 var express = require('express');
 var path = require('path');
+var db = require('./database/connection');
 
 // var bodyParser = require('body-parser');
 // var http = require('http');
