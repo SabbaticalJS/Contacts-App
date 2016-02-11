@@ -5,6 +5,7 @@ var Schema = mongoose.schema;
 ContactSchema = new Schema({
 	firstName: String,
 	lastName: String,
+	nickname: String,
 	mobile: Number,
 	email: String,
 	address: String
