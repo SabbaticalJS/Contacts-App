@@ -3,6 +3,7 @@
   "description": "an app to perform CRUD operations on contacts",
   "main": "server/server.js",
   "dependencies": {
+  	"angular": "^1.4.7",
     "body-parser": "^1.14.2",
     "express": "^4.13.3",
     "mongoose": "^4.3.7",
