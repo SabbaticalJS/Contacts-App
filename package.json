@@ -4,6 +4,7 @@
   "main": "server/server.js",
   "dependencies": {
   	"angular": "^1.4.7",
+  	"jquery": "^2.1.4",
     "body-parser": "^1.14.2",
     "express": "^4.13.3",
     "mongoose": "^4.3.7",
